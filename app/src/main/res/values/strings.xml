@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Drug Shortage Reporting</string>
+    <string-array name="pakistan_cities_array">
+        <item>Select</item>
+        <item>Abbottabad</item>
+        <item>Attock</item>
+        <item>Bahawalpur</item>
+        <item>Bannu</item>
+        <item>Burewala</item>
+        <item>Chakwal</item>
+        <item>Charsadda</item>
+        <item>Chiniot</item>
+        <item>Dera Ghazi Khan</item>
+        <item>Dera Ismail Khan</item>
+        <item>Faisalabad</item>
+        <item>Gilgit</item>
+        <item>Gujranwala</item>
+        <item>Gujrat</item>
+        <item>Gwadar</item>
+        <item>Haripur</item>
+        <item>Hyderabad</item>
+        <item>Islamabad</item>
+        <item>Jacobabad</item>
+        <item>Jhang</item>
+        <item>Jhelum</item>
+        <item>Karachi</item>
+        <item>Kasur</item>
+        <item>Khairpur</item>
+        <item>Khanewal</item>
+        <item>Khanpur</item>
+        <item>Khuzdar</item>
+        <item>Kohat</item>
+        <item>Lahore</item>
+        <item>Larkana</item>
+        <item>Mandi Bahauddin</item>
+        <item>Mansehra</item>
+        <item>Mardan</item>
+        <item>Mianwali</item>
+        <item>Mirpur Khas</item>
+        <item>Multan</item>
+        <item>Muzaffarabad</item>
+        <item>Nawabshah</item>
+        <item>Nowshera</item>
+        <item>Okara</item>
+        <item>Peshawar</item>
+        <item>Quetta</item>
+        <item>Rahim Yar Khan</item>
+        <item>Raiwind</item>
+        <item>Rawalakot</item>
+        <item>Rawalpindi</item>
+        <item>Sadiqabad</item>
+        <item>Sahiwal</item>
+        <item>Sargodha</item>
+        <item>Sheikhupura</item>
+        <item>Sialkot</item>
+        <item>Sukkur</item>
+        <item>Swabi</item>
+        <item>Tando Adam</item>
+        <item>Tando Allahyar</item>
+        <item>Taxila</item>
+        <item>Vehari</item>
+        <item>Wah Cantonment</item>
+    </string-array>
+
+
+</resources>

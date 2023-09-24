@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1057547552016",
+    "firebase_url": "https://dispms-default-rtdb.firebaseio.com",
+    "project_id": "dispms",
+    "storage_bucket": "dispms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057547552016:android:435bb484e5d5e99b565195",
+        "android_client_info": {
+          "package_name": "drap.dsr.dis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057547552016-elicqvsdtm5khq95of6m1gard2m2fes9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAuZO51d3phDlgsnrQ9O1Aose7qqSBXJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057547552016-elicqvsdtm5khq95of6m1gard2m2fes9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057547552016:android:b8bbf532b0930f36565195",
+        "android_client_info": {
+          "package_name": "drap.dsr.dispms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057547552016-elicqvsdtm5khq95of6m1gard2m2fes9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAuZO51d3phDlgsnrQ9O1Aose7qqSBXJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057547552016-elicqvsdtm5khq95of6m1gard2m2fes9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
